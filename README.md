@@ -38,6 +38,12 @@ Imersão Python: Do Excel à Análise de Dados
 
 * Criar gráficos de velas;
 * Aprender a fazer gráficos interativos com Plotly.
-  #### Desafios aula 3:
+  #### Desafios aula 4:
   * Pesquisar o que é uma tupla em Python;
   * Buscar a ação da Apple e recriar o gráfico de Candlestick usando a biblioteca MPLFinance.
+
+### Aula 05: Previsão de Séries Temporais de Ações e Carreiras no Mercado de Dados
+
+* Ter uma introdução ao Machine Learning;
+* Revisar ferramentas aprendidas durante a Imersão;
+* Conhecer mais sobre as carreiras no mercado de dados.
