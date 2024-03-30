@@ -47,3 +47,14 @@ Imersão Python: Do Excel à Análise de Dados
 * Ter uma introdução ao Machine Learning;
 * Revisar ferramentas aprendidas durante a Imersão;
 * Conhecer mais sobre as carreiras no mercado de dados.
+
+### Anotações:
+* Pandas
+* Azure Databriks
+* Data lake
+* KPIs
+* OCR - optical character recognition
+* PyTorch
+* Transformers - Huggingface
+* JAX
+* TPU - tensor processing unit
